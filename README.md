@@ -51,3 +51,25 @@ With this bar chart, I was able to see the sales performance of each sales worke
 <img width="777" height="455" alt="Screenshot 2026-07-30 223445" src="https://github.com/user-attachments/assets/d62174fa-c81f-4f98-8b10-1b6979830907" />
 
 This pie chart shows the total sales and  each slice to show specific promo code that is linked with sales or no promo code at all. 
+
+# Key insights
+
+1. North region brings in the most sales and South brings in the least. This could be due to geography or the salespeople. Shareholders and Region Managers should try to find solutions to improve the  store’s performance in the south or if the store might need to close down.
+
+2. Bob is the salesperson that generates the most sales, bringing in almost £860,000 for the company. This could be due to experience and different sales tactics so managers can try to 
+encourage other salespeople to implement the same sales techniques.
+
+3. The free shipping promotion makes up most of the total sales but the sales figures with a promotion all seem to be the same even if there is no promotion. The company can decide to keep promotions and perhaps increase the number of free shipping promotions given to clients.
+
+# Skills demonstrated 
+- Excel
+- Importing data
+- Data cleaning 
+- Data manipulation
+- Data visualisation
+- 
+
+# Conclusion
+
+Overall, I was able to use Excel and its features to clean, manipulate and analyse data of a company to provide insights on the performance of store regions, salespeople and promotions so they can make informed decisions.
+ 
