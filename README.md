@@ -1,7 +1,7 @@
 ## Product Sales by Region
 
 # Introduction
-In this project. I used a dataset in Excel to create insights on a company's sales figures in different regions. The findings gathered can be used by stakeholders such as shareholders and managers to find solutions on where to boost product sales and which regions are performing well.
+In this project, I used a dataset in Excel to create insights on a company's sales figures in different regions. The findings gathered can be used by stakeholders such as shareholders and managers to find solutions on where to boost product sales and which regions are performing well.
 
 Three questions I hope to answer:
 
@@ -67,7 +67,7 @@ encourage other salespeople to implement the same sales techniques.
 - Data cleaning 
 - Data manipulation
 - Data visualisation
-- 
+- Data insights and interpretation 
 
 # Conclusion
 
