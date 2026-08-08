@@ -67,9 +67,14 @@ encourage other salespeople to implement the same sales techniques.
 - Data cleaning 
 - Data manipulation
 - Data visualisation
-- Data insights and interpretation 
+- Data insights and interpretation
+
+# Improvements 
+I could have cleaned the data in power query. In the future, I could also explore and find insights on discounts to see if that has a massive effect on sales rather than just focusing on promotions. 
 
 # Conclusion
 
 Overall, I was able to use Excel and its features to clean, manipulate and analyse data of a company to provide insights on the performance of store regions, salespeople and promotions so they can make informed decisions.
+
+
  
